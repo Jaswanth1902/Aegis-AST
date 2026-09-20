@@ -1,7 +1,7 @@
 # 🛡️ Aegis-AST
 ### *Zero-Dependency Sub-Second Python AST & Secret Security Linter*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-C5A059.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-C5A059.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-121110.svg?style=flat-square&logo=python&logoColor=C5A059)](https://www.python.org/)
 [![Zero Dependencies](https://img.shields.io/badge/Dependencies-Zero%20(Pure%20Stdlib)-4A6B5D.svg?style=flat-square)](https://github.com/Jaswanth1902/Aegis-AST)
 [![Tests: 100% Pass](https://img.shields.io/badge/Tests-100%25%20Passing-C86D51.svg?style=flat-square)](https://github.com/Jaswanth1902/Aegis-AST)
@@ -128,6 +128,6 @@ pytest tests/ -v
 ---
 
 ## 🏛️ License & Author
-
+ 
 - **Author**: K. Sai Jaswanth Reddy ([@Jaswanth1902](https://github.com/Jaswanth1902))
-- **License**: MIT License.
+- **License**: Apache License, Version 2.0. See [LICENSE](LICENSE) for details.
