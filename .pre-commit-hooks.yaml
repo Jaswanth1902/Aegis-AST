@@ -1,0 +1,7 @@
+- id: aegis-ast
+  name: Aegis-AST Static Security Scanner
+  description: Fast zero-dependency AST security and secret scanner for Python
+  entry: python -m aegis_ast.scanner
+  language: python
+  types: [python]
+  pass_filenames: true
